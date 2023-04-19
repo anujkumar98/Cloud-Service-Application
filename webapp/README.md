@@ -1,4 +1,4 @@
-# CSYE 6225 - Spring 2023 - webapp - A7 demo Changes
+# webapp- FastApi
 ___
 
 ## Technology Stack
