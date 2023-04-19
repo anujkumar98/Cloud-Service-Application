@@ -1,4 +1,4 @@
-# CSYE 6225 - Spring 2023 - aws-infra
+# aws-infra terraform code
 
 ## Steps to setup:
 
